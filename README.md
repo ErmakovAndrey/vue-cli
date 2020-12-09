@@ -1,4 +1,4 @@
-# vue-cli
+# basic vue-cli with routing and store
 
 ## Project setup
 ```
